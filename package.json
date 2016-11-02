@@ -1,0 +1,22 @@
+{
+  "name": "provavue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogerforner/provavue.git"
+  },
+  "author": "Roger Forner Fabre <rogerforne@iesebre.com> (https://github.com/rogerforner)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogerforner/provavue/issues"
+  },
+  "homepage": "https://github.com/rogerforner/provavue#readme",
+  "dependencies": {
+    "vue": "^2.0.3"
+  }
+}
